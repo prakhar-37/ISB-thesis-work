@@ -10,3 +10,5 @@ A farmer has 3 options, he/she can
 3) Plant trees under the reforestation incentive scheme. He/She gets incentive payment P per hectare from the government. But he has to spend money and effort on seedlings, labor, and maintenance. There also is a possibility that the trees might die from drought,  And he/she can't grow crops on that land anymore, further if the government catches him cheating, he/she pays a fine.
 
 However, the issue here is that the farmer doesn't really have the 3 options, Aforestation/Reforestation work does come under the VB G RAM G scheme, which actually changes the the way the choices are structured, and changes the leaders and followers in the game theoretic framework completely.
+
+<img width="1456" height="813" alt="image" src="https://github.com/user-attachments/assets/f685857d-76dc-4f6b-99d6-fd621b1dec97" />
