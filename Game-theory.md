@@ -12,3 +12,14 @@ A farmer has 3 options, he/she can
 However, the issue here is that the farmer doesn't really have the 3 options, Aforestation/Reforestation work does come under the VB G RAM G scheme, which actually changes the the way the choices are structured, and changes the leaders and followers in the game theoretic framework completely.
 
 <img width="1456" height="813" alt="image" src="https://github.com/user-attachments/assets/f685857d-76dc-4f6b-99d6-fd621b1dec97" />
+
+Here, we introduce the three players of our game-theoretic framework which is a stackelberg game where the player 1- leader is the
+1) **The Central Government**, which is the leader of this stackelberg game, i.e it makes the first move and makes all its moves based on backward reduction based on all the responses of the intermediary leader and the follower.
+
+The Two Variables-
+a) Afforestation emphasis (α)- Through thematic guidelines and adhereing to the allocation parameters set by VB G Ram G, the central government makes the decision of what share of the work under VB G Ram G should come under afforestation/reforestation related. There are 4 categories of work in which the VB G Ram G budger flows towards- Category I (water related works which also includes aforestation), Category II (Infrastructure), Category III (livelihoods) or Category IV disaster mitigation. The value of α is found after operating through guidelines, prioritising the weightings in the Viksit bharat national rural infrastructure stack and programmes such as Green India Mission.
+
+b) Monitoring Investment(M)- How much to spend on geospatial monitoring under section 24(b) of the act. This includes satellite imager acquisition, processing infrastructure, AI-based classification models and verification personnel. Higher M means more frequent satellite revisits, better spatial resolution and higher probability of detecting whether plantation sites have surviving trees. 
+
+
+
