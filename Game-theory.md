@@ -47,3 +47,24 @@ Their payoff: The Sarpanch maximizes a weighted combination of: (a) political ca
 Note: Why was the Intermediary player- Gram Panchayat introduced instead of just keeping this as a simple 2 player Stackelberg game-
 
 The Gram Panchayat is the critical swing player. The Central Government cannot directly plant trees. The farmer cannot choose what work to do. The Gram Panchayat is the bottleneck that decides whether afforestation enters the village plan at all. The entire thesis pivots on understanding what makes the Gram Panchayat choose trees over roads.
+
+
+**Player 3: The Followers (Two Types)**
+
+What neither follower type decides: Neither the individual farmer nor the community chooses what type of work to do. The farmer demands work from the Gram Panchayat (orally, in writing, or digitally — Schedule II, paragraph 2). The Gram Panchayat "allocates employment opportunities among the applicants and asks them to report for work" (Section 19(g)). If the only open worksite is a plantation, the farmer goes to the plantation. No menu of choices. What both decide: Effort level (e), ranging from e = 0 (pure shirking: do the minimum, collect the wage) to e = 1 (full honest effort: proper pit preparation, careful planting, watering, protection from grazing).
+
+
+**3.1 Type A: Individual Farmer on Private Land** : An individual farmer planting trees on his own private land under Schedule I paragraph
+4(6), which prioritises individual asset creation on land owned by SC/ST households, womenheaded households, land reform beneficiaries, Forest Rights Act beneficiaries, and small/marginal farmers.
+
+Their situation: The farmer works on his own plot, often in isolation. No neighbours are watching the worksite. No community members are monitoring quality. The only people who can verify whether the work was done well are: (a) the technical measurement person, who checks quantity within 3 days, and (b) the satellite, which detects quality failures months later.
+
+
+Their payoff at effort level eₐ: Net payoff = W − c(eₐ) − d(M) × F × (1−eₐ) Where W is the daily wage (₹300–409), c(eₐ) is the effort cost (increases with effort), d(M) is the satellite detection probability (function of monitoring investment M), and F is the effective penalty (fine + FIR risk + loss of future work allocation). The key feature: the only external enforcement is d(M). There is no social enforcement term. If monitoring investment M is zero, the detection probability is zero, and the farmer’s optimal effort drops to the minimum needed to pass the quantity measurement. The individual farmer’s effort is almost entirely a function of M. Best response function: eₐ*(M) — the individual farmer’s optimal effort as a function of monitoring investment. This function starts near zero when M is zero and increases as M rises, with diminishing returns at high M levels.
+
+
+**3.2 Type B: Community on Collective Land
+**
+
+Who: The Gram Sabha collectively managing afforestation on community wasteland, degraded forest land, or land under Community Forest Resource (CFR) rights recognised under the Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006. The VB G-RAM-G Act explicitly references Forest Rights Act beneficiaries in Schedule I paragraph 4(6). Their situation: The community works collectively on shared land. Members observe each other’s effort. If one worker shirks on the community plantation site, neighbours notice — social reputation is damaged, gossip spreads, the shirker may face exclusion from future community benefits. The Gram Sabha conducts social audits every six months (Section 20), and community members have direct visibility into worksite quality because the plantation is on their own
+commons. Their payoff at effort level eᵇ: Net payoff = W − c(eᵇ) − [d(M) + s] × F × (1−eᵇ) + L(eᵇ) Two critical differences from the individual farmer: First, the detection probability is d(M) + s, not just d(M). The term s represents social enforcement — the probability that community members detect and punish quality-shirking through informal social mechanisms (reputation damage, exclusion from community benefits
