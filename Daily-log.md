@@ -11,3 +11,8 @@ Tomorrow's goals would be, to start with the monitoring part of my work, my work
  1) The game theoretic part- where the initial work is around creating the framework and the future work will include using python libraries related to game theory to load data and eventually run simulations as the stackelberg game in our framework is a continous game. 
 2)Monitoring work- Monitoring is an important is not the most important variable in our stackelberg game and it is also mentioned in the VB G Ram G act document, a mention of using geospatial tools for monitoring was present in the act and also the usage of satellite data was mentioned, this is an important point as geospatial tools and open source satellite data can be used in the best way possible to further strengthen the game and focus on the technical side of it
 3) Public Policy Related- The framework at the end designs something which is an actual problem which the Central Government (the leader of the stackelberg game) will have to solve if it plans to solve the issues related to the current methods of aforestation/reforestation, this whole project aims to solve the issue related to how much money should the government allocate for both monitoring and reforestation efforts- i.e it aims to optimise and find the middle ground for both things to find the optimal solution which is- to improve the reforestation efforts.
+
+
+
+**August 4 2026**
+Worked on the basics of what my thesis are about and how I will look at my work ahead for the next few months, need to prepare for a presentation that will happen some time this week where I explain what exactly i'll be working on etc.
