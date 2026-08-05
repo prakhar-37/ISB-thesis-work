@@ -16,3 +16,10 @@ Tomorrow's goals would be, to start with the monitoring part of my work, my work
 
 **August 4 2026**
 Worked on the basics of what my thesis are about and how I will look at my work ahead for the next few months, need to prepare for a presentation that will happen some time this week where I explain what exactly i'll be working on etc.
+
+
+
+**August 5 2026**
+- Completed a final draft of what my deliverables will be and what exactly I will be working on
+- Read 3 Papers, the one of PAWS was a very interesting and relevant paper which spoke about how game theory and stackelberg framework was used for conservation of animals from poachers in Uganda
+- Started a tutorial on ARSET, foundations of remote sensing
